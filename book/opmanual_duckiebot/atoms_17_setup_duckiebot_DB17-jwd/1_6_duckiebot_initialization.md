@@ -125,6 +125,10 @@ Doubt: Not sure it's a good idea to boot into Byobu. -??
 
 See: [](#duckiebot_network)
 
+## Upgrade image to RPI3 B+ (Optional)
+
+See: [](#sec:duckiebot_image_upgrade)
+
 ## Update the system
 
 Next, we need to update to bring the system up to date.
